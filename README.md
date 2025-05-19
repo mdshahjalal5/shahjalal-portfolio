@@ -5,7 +5,7 @@
 | 📝 **Detail**           | 📌 **Value**                                                                                                     |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 💻 **Portfolio GitHub** | [https://github.com/mdshahjalal5/shahjalal-portfolio](https://github.com/mdshahjalal5/shahjalal-portfolio)       |
-| 🌐 **Portfolio Live**   | [https://shahjalal-portfolio.surge.sh/](https://shahjalal-portfolio.surge.sh/)                                   |
+| 🌐 **Portfolio Live**   | [http://shahjalal-labs.surge.sh/](https://shahjalal-portfolio.surge.sh/)                                         |
 | 📁 **Directory**        | `/run/media/sj/developer/web/L1B11/portfolio/shahjalal-portfolio`                                                |
 | 👤 **Username**         | `sj`                                                                                                             |
 | 📅 **Created On**       | `19/05/2025 07:03 পূর্বাহ্ণ সোম GMT+6`                                                                           |
